@@ -13,6 +13,9 @@ cd bpkg
 python install.py
 ````
 
+<p>CIRCLE BOT :<a href="https://t.me/ZERO2_HELP_BOT"> ZERO 2</a></p>
+
+
 <p>TUTORIAL VIDEO : <a href="https://youtu.be/fQaBrOvzO-4"> WATCH TUTORIAL</a></p>
 
 <h3 align="left">Connect with me:</h3>
